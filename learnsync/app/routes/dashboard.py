@@ -29,3 +29,4 @@ def index():
                           user_groups=user_groups,
                           upcoming_sessions=upcoming_sessions,
                           recent_materials=recent_materials)
+
